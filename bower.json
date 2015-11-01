@@ -1,0 +1,27 @@
+{
+  "name": "GeekCave",
+  "description": "GeekCave",
+  "main": "public/index.php",
+  "authors": [
+    "saeful_y <saeful@lussa.net>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "geekcave"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "public/index.php",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
